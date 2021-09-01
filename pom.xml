@@ -4,4 +4,10 @@
   <artifactId>SimpleProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SimpleProject</name>
+  <url>http://maven.apache.org</url>
+
+ <properties>
+   <maven.compiler.source>6</maven.compiler.source>
+   <maven.compiler.target>1.6</maven.compiler.target>
+ </properties>
 </project>
